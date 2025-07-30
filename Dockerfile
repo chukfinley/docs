@@ -1,7 +1,11 @@
 # ---- build stage ----
 FROM squidfunk/mkdocs-material:latest AS builder
 
-# copy docs source into image
+# install the missing plugin (and any other pip extras you need)
+RUN pip install --no-cache-dir \
+      mkdocs-git-revision-date-localized-plugin
+
+# copy docs source
 COPY . /docs
 WORKDIR /docs
 
