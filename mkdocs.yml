@@ -1,9 +1,9 @@
 site_name: 📚 Chuks Docs/Notes
-site_url: https://chukfinley.github.io/docs/
+site_url: https://docs.chuk.dev/
 theme:
   name: material
-  logo: https://chukfinley.github.io/docs/favicon.ico
-  favicon: https://chukfinley.github.io/docs/favicon.ico
+  logo: https://docs.chuk.dev/favicon.ico
+  favicon: https://docs.chuk.dev/favicon.ico
   palette:
     scheme: slate
     primary: black
@@ -55,7 +55,7 @@ markdown_extensions:
   - toc
   - toc:
       permalink: true
-repo_url: https://github.com/chukfinley/docs.chukfinley.github.io
+repo_url: https://github.com/chukfinley/docs
 repo_name: 🔧 Docs on Github
 plugins:
   - search
