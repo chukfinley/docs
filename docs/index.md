@@ -16,6 +16,7 @@
 - 🐳 [NVIDIA Docker Setup](Installation/nvidiagpu/nvida-docker.md)
 - 🎵 [PyAudio Setup](Installation/python/pyaudio.md)
 - 📄 [Spicetify](Installation/spicetify.md)
+- ♾️ [n8n](Installation/n8n.md)
 
 ### Remote Tools 🔄
 

@@ -71,6 +71,7 @@ nav:
           - 🌊 Seafile: Installation/seafile.md
           - 🛍️ Shopware: Installation/Shopware.md
           - 🐙 Gitea: Installation/gitea.md
+          - ♾️ n8n: Installation/n8n.md
       - 💻 Development:
           - 📝 Git: Installation/git.md
           - 🔤 Languages: Installation/languages.md
